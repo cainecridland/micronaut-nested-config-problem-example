@@ -1,0 +1,11 @@
+product-aggregator:
+  level-one:
+    level-one-value: ONE
+    level-two:
+      levelTwoValue: TWO
+#  level-onez:
+
+
+micronaut:
+  application:
+    name: demo
